@@ -15,7 +15,7 @@
 
 <script>
 export default {
-    name: "mobanyufa",
+    name: "1mobanyufa",
     data() {
         return {
             msg: "adadadadad",
