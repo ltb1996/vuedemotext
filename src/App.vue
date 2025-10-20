@@ -7,7 +7,7 @@
 
 
 <script>
-import Home from './views/Home.vue';
+import Home from './views/home.vue';
 
 export default {
   name: 'App',
@@ -20,11 +20,11 @@ export default {
 
 
 <style>
-* {
+/* * {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-}
+} */
 
 body {
   background-color: #000;
