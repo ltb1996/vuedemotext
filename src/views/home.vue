@@ -9,6 +9,8 @@
         <Keyguanlizhuangtai></Keyguanlizhuangtai>
         <Shijianchuli></Shijianchuli>
         <Shijianchuancan></Shijianchuancan>
+        <Shijianxiushifu></Shijianxiushifu>
+        <Shuzubianhuazhence></Shuzubianhuazhence>
     </div>
 </template>
 
@@ -20,6 +22,8 @@ import Liebiaoxuanran from '../components/liebiaoxuanran.vue';
 import Keyguanlizhuangtai from '../components/keyguanlizhuangtai.vue';
 import Shijianchuli from '../components/shijianchuli.vue';
 import Shijianchuancan from '../components/shijianchuancan.vue';
+import Shijianxiushifu from '../components/shijianxiushifu.vue';
+import Shuzubianhuazhence from '../components/shuzubianhuazhence.vue';
 
 export default {
   name: 'home',
@@ -30,7 +34,9 @@ export default {
     Liebiaoxuanran,
     Keyguanlizhuangtai,
     Shijianchuli,
-    Shijianchuancan
+    Shijianchuancan,
+    Shijianxiushifu,
+    Shuzubianhuazhence
   },
 }
 
