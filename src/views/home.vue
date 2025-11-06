@@ -1,3 +1,11 @@
+<!--
+ * @Author: ltb1996 610030835@qq.com
+ * @Date: 2025-10-09 16:35:17
+ * @LastEditors: ltb1996 610030835@qq.com
+ * @LastEditTime: 2025-11-06 08:19:46
+ * @FilePath: \vuedemotext\src\views\home.vue
+ * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
+-->
 <template>
     <div class="home-container">
         <h1>VUE3教学</h1>
@@ -17,6 +25,8 @@
         <Watchzhenting></Watchzhenting>
         <Biaodanshujvbangding></Biaodanshujvbangding>
         <Mobanyinyong></Mobanyinyong>
+        <Zujianzucheng></Zujianzucheng>
+        <Zujianqiantao></Zujianqiantao>
     </div>
 </template>
 
@@ -36,6 +46,8 @@ import Stylebangding from '../components/stylebangding.vue';
 import Watchzhenting from '../components/watchzhenting.vue';
 import Biaodanshujvbangding from '../components/biaodanshujvbangding.vue';
 import Mobanyinyong from '../components/mobanyinyong.vue';
+import Zujianzucheng from '../components/zujianzucheng.vue';
+import Zujianqiantao from '../components/zujianqiantao.vue';
 
 export default {
   name: 'home',
@@ -55,6 +67,8 @@ export default {
     Watchzhenting,
     Biaodanshujvbangding,
     Mobanyinyong,
+    Zujianzucheng,
+    Zujianqiantao,
   },
 }
 
