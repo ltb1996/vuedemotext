@@ -1,20 +1,21 @@
 <template>
   <div id="app">
-    <Home />
+    <!-- <Home /> -->
     <!-- <Home> </Home> -->
      <BackgroundEffect />
+     <router-view></router-view>
   </div>
 </template>
 
 
 <script>
-import Home from './views/home.vue';
+// import Home from './views/home.vue';
 import BackgroundEffect from './components/backgroundEffect.vue';
 
 export default {
   name: 'App',
   components: {
-    Home,
+    // Home,
     BackgroundEffect,
   },
 };

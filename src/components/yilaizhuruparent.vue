@@ -13,7 +13,7 @@ export default {
     name: "27yilaizhuruparent",
     data() {
         return {
-            msg: '我是父组件',
+            msg: '后端开发工程师',
         }
     },
     components: {

@@ -5,6 +5,7 @@
         <p>从子组件接收过来消息：{{ msg }}</p>
         <p>{{ mess }}</p>
         <p>+++++++{{ fullMess }}</p>
+        <hr>
     </div>
 </template>
 
@@ -32,5 +33,8 @@ export default {
 </script>
 
 <style scoped>
+.yilaizhurusun {
+    color: rgb(0, 255, 51);
+}
 
 </style>
