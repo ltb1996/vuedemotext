@@ -14,7 +14,7 @@
 
 <script>
 export default {
-    name: 'stylebangding',
+    name: '12stylebangding',
     data() {
         return {
             activeColor: 'red',

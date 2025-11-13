@@ -8,7 +8,7 @@
 
 <script>
 export default {
-    name: 'zujianzucheng',
+    name: '16zujianzucheng',
 }
 </script>   
 

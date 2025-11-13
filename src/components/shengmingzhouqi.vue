@@ -17,7 +17,7 @@
    销毁期： beforeUnmount unmounted
 */
 export default {
-    name: 'shengmingzhouqi',
+    name: '23shengmingzhouqi',
     data() {
         return {
             msg: '更新之前'

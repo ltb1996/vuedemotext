@@ -38,7 +38,7 @@ import slotszaixu from '../pages/slotszaixu.vue';
 import slotsBase from '../pages/slotsBase.vue';
 import slotsxu  from '../pages/slotsxu.vue';
 export default {
-    name: 'chacaoslots',
+    name: '22chacaoslots',
     data() {
         return {
             msg1: 'hello world',

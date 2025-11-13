@@ -15,7 +15,7 @@
 
 <script>
 export default {
-    name: 'mobanyinyong',
+    name: '15mobanyinyong',
     data() {
         return {
             content: '这是模板引用的内容'

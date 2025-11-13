@@ -16,7 +16,7 @@
 
 <script>
 export default {
-    name: 'classbangding',
+    name: '11classbangding',
     data() {
         return {
             myclass: 'demo',

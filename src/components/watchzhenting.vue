@@ -12,7 +12,7 @@
 
 <script>
 export default {
-    name: 'watchzhenting',
+    name: '13watchzhenting',
     data() {
         return {
             message: 'watchzhenting'

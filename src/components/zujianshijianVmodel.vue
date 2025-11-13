@@ -11,7 +11,7 @@
 <script>
 import zujianshijianVmodelSearch from '../pages/zujianshijianVmodelSearch.vue';
 export default {
-    name: 'zujianshijianVmodel',
+    name: '21zujianshijianVmodel',
     data() {
         return {
             search: ''

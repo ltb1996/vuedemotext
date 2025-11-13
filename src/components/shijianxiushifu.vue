@@ -18,7 +18,7 @@
 
 <script>
 export default {
-    name: 'shijianxiushifu',
+    name: '8shijianxiushifu',
     data() {
         return {
         }

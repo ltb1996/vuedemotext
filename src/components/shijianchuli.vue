@@ -17,6 +17,7 @@
 
 <script>
 export default {
+    name: '6shijianchuli',
     data() {
         return {
             count: 0,

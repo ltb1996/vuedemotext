@@ -17,7 +17,7 @@
 
 <script>
 export default {
-    name: 'biaodanshujvbangding',
+    name: '14biaodanshujvbangding',
     data() {
         return {
             lazya: '55555555555',

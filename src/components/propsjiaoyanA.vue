@@ -11,7 +11,7 @@
 <script>
 import propsjiaoyanB from '../pages/propsjiaoyanB.vue';
 export default {
-    name: 'propsjiaoyanA',
+    name: '20propsjiaoyanA',
     data() {
         return {
             title: 'propsjiaoyanA',

@@ -15,6 +15,7 @@
 
 <script>
 export default {
+    name: '5keyguanlizhuangtai',
     data() {
         return {
             names: ['张三零', '小王', '小李'],

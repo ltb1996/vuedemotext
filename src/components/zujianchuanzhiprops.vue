@@ -12,7 +12,7 @@
 <script>
 import Child from '../pages/child.vue';
 export default {
-    name: 'zujianchuanzhiprops',
+    name: '18zujianchuanzhiprops',
     data() {
         return {
             message: '父组件传值给子组件',

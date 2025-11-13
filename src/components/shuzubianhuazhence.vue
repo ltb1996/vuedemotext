@@ -18,7 +18,7 @@
 
 <script>
 export default {
-    name: 'shuzubianhuazhence',
+    name: '9shuzubianhuazhence',
     data() {
         return {
             names: ['张三', '王五', '赵六'],

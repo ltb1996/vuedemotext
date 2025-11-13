@@ -17,7 +17,7 @@
 
 <script>
 export default {
-  name: "shengmingzhouqiyingyong",
+  name: "24shengmingzhouqiyingyong",
   data() {
     return {
       results: [],

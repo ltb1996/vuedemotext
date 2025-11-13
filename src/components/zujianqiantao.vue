@@ -14,7 +14,7 @@ import Main from '../pages/main.vue';
 import Aside from '../pages/aside.vue';
 
 export default {
-    name: 'zujianqiantao',
+    name: '17zujianqiantao',
     data() {
         return {
             name: '张三'

@@ -11,7 +11,7 @@
 <script>
 import zichuanfu from '../pages/zichuanfu.vue';
 export default {
-    name: 'zujianshijian',
+    name: '19zujianshijian',
     data() {
         return {
             message: ''
