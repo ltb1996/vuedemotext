@@ -7,6 +7,10 @@
         <hr>
         <Zuhexiangyingshi></Zuhexiangyingshi>
         <Zuhejisuanshuxing></Zuhejisuanshuxing>
+        <Zuheshijianchuli></Zuheshijianchuli>
+        <Zuhezhentingqi></Zuhezhentingqi>
+        <Zuhemobanyingyong></Zuhemobanyingyong>
+        <Zuheshengmingzhouqi></Zuheshengmingzhouqi>
     </div>
 </template>
 
@@ -15,6 +19,10 @@
 <script>
 import Zuhexiangyingshi from "../newcomponents/zuhexiangyingshi.vue";
 import Zuhejisuanshuxing from "../newcomponents/zuhejisuanshuxing.vue";
+import Zuheshijianchuli from "../newcomponents/zuheshijianchuli.vue";
+import Zuhezhentingqi from "../newcomponents/zuhezhentingqi.vue";
+import Zuhemobanyingyong from "../newcomponents/zuhemobanyingyong.vue";
+import Zuheshengmingzhouqi from "../newcomponents/zuheshengmingzhouqi.vue";
 
 export default {
     name: "new",
@@ -25,7 +33,12 @@ export default {
     },
     components: {
         Zuhexiangyingshi,
-        Zuhejisuanshuxing
+        Zuhejisuanshuxing,
+        Zuheshijianchuli,
+        Zuhezhentingqi,
+        Zuhemobanyingyong,
+        Zuheshengmingzhouqi
+
     },
     mounted() {
         setTimeout(() => {

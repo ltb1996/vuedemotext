@@ -6,6 +6,7 @@
         <p>{{ reverseMessage }}</p>
         <p>{{ reverseUserInfoName }}</p>
         <p>{{ demo }}</p>
+        <hr>
     </div>
 
 </template>
